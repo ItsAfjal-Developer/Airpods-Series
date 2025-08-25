@@ -1,6 +1,6 @@
 # **AirPods Series**
 A Clean and Modern AirPods Series Landing Page built with HTML , CSS and Javascript designed to showcase Apple’s premium over-ear Airpods. 
-This project focuses on creating a visually appealing product page with smooth typography, responsive design and product details.
+This project focuses on creating a Visually appealing Product Page with Smooth typography, Responsive design and Product details.
   
 ## ✨ Features
 - **Modern and Minimal UI design**  
